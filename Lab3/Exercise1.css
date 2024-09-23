@@ -1,12 +1,12 @@
 #firstHeader{
-  color:red;
-  }
-  {
-    font-weight:bold;
+font-color:red;
+}
+{
+    font-weight: bold;
   }
 
   .greenText{
-    color:green;
+    font-color:green;
   }
   {
     font-style: italic;
