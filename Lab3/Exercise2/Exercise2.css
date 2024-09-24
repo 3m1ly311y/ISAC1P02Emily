@@ -6,3 +6,7 @@ body{
   color:green;
   font-style: italic;
 }
+li{
+  font-size: 30px;
+  vertical-align: inline
+}
