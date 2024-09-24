@@ -2,7 +2,7 @@ body{
   background-color: red;
 }
 
-ol{
+.liststy{
   color:green;
   font-style: italic;
 }
