@@ -3,19 +3,19 @@ body{
 }
 .Box{
   margin: 20px 10% 20px 10%;
-  padding: 10px 20% 10px 20%;
-  border: black 5px;
+  padding: 30px;
+  border: black 5px solid;
 }
 .RedText{
   margin: 20px 10% 20px 10%;
-  padding: 10px 20% 10px 20%;
+  padding: 10px;
   border: green 3px dashed;
   color: red;
 }
 img{
-  width: 20px;
+  width: 400px;
   height: auto;
   margin: 20px 10% 20px 10%;
-  padding: 10px 20% 10px 20%;
+  padding: 20px;
   border: yellow 3px dashed;
 }
