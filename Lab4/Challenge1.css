@@ -6,7 +6,8 @@ div{
   border: black 5px solid;
 }
 .RedText{
-  margin: 20px 10% 20px 10%;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
   border: green 3px dashed;
   color: red;
 }
