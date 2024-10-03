@@ -4,6 +4,7 @@ body{
 div{
   margin: 20px 20px 20px 20px;
   border: black 5px solid;
+  padding: 20px 20px 20px 20px;
 }
 .RedText{
   margin: 20px 10% 20px 10%;
@@ -14,6 +15,6 @@ img{
   width: 400px;
   height: auto;
   margin: 20px 10% 20px 10%;
-  padding: inherit;
+  padding: 20px 20px 20px 20px;
   border: yellow 3px dashed;
 }
