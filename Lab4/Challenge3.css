@@ -1,5 +1,10 @@
-.Green{
+div{
   background-color: green;
+}
+.box{
+  padding: 30px 20px 30px 20px;
+  margin: 10px 10px 10px 10px;
+  border: black 3px dotted;
 }
 
 .RedText{
