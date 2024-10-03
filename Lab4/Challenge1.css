@@ -1,9 +1,9 @@
 body{
   background-color: blue;
 }
-div{
+.box{
   margin: 20px 10% 20px 10%;
-  border: black 3px;
+  border: black 5px;
 }
 .RedText{
   margin: auto;
@@ -11,6 +11,8 @@ div{
   color: red;
 }
 img{
-  margin: auto;
+  width: 100px;
+  height: 600px;
+  margin: 20px;
   border: yellow 3px dashed;
 }
