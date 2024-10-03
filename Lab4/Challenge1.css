@@ -1,0 +1,16 @@
+body{
+  background-color: blue;
+}
+div{
+  margin: 20px 10% 20px 10%;
+  border: black 3px;
+}
+.RedText{
+  margin: auto;
+  border: green 3px dashed;
+  color: red;
+}
+img{
+  margin: auto;
+  border: yellow 3px dashed;
+}
