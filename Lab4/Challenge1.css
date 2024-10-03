@@ -2,7 +2,7 @@ body{
   background-color: blue;
 }
 div{
-  margin: 20px 10% 20px 10%;
+  margin: 20px 20px 20px 20px;
   border: black 5px solid;
 }
 .RedText{
@@ -14,5 +14,6 @@ img{
   width: 400px;
   height: auto;
   margin: 20px 10% 20px 10%;
+  padding: inherit;
   border: yellow 3px dashed;
 }
