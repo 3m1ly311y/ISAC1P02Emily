@@ -11,8 +11,8 @@
   text-align: center;
   font-size: 8px;
 }
-.YellowText{
-  color: yellow;
+.OrangeText{
+  color: orange;
   text-align: left;
 }
 .TinyTextPurple{
@@ -24,6 +24,7 @@
   color: yellow;
 }
 .higher{
-    margin-bottom: -10px;
+  position: relative;
+          height: 100px; ;
     color: red;
 }
