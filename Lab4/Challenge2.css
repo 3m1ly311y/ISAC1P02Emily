@@ -1,0 +1,29 @@
+.Box{
+  margin: 10px 10px 10px 10px;
+  padding: 250px 500px 25px 500px;
+  border: Purple 3px dashed;
+}
+.BlackText{
+  text-align: center;
+}
+.GreenText{
+  color: green;
+  text-align: center;
+}
+.YellowText{
+  color: yellow;
+  text-align: left;
+}
+.TinyTextPurple{
+  color: Purple;
+  font-size: 8px;
+  text-align: right;
+}
+.YELLOW{
+  color: yellow;
+}
+.higher{
+    display: inline-flex;
+    flex-direction: column;
+    color: red;
+}
