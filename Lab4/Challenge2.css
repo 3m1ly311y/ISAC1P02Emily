@@ -11,7 +11,7 @@
   text-align: center;
   font-size: 8px;
 }
-.OrangeText{
+.YellowText{
   color: orange;
   text-align: left;
 }
@@ -24,7 +24,5 @@
   color: yellow;
 }
 .higher{
-  position: relative;
-          height: 100px; ;
     color: red;
 }
