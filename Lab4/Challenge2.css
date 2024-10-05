@@ -9,6 +9,7 @@
 .GreenText{
   color: green;
   text-align: center;
+  font-size: 5px;
 }
 .YellowText{
   color: yellow;
@@ -16,13 +17,13 @@
 }
 .TinyTextPurple{
   color: Purple;
-  font-size: 4px;
+  font-size: 6px;
   text-align: right;
 }
 .YELLOW{
   color: yellow;
 }
 .higher{
-    transform: translate(0, -5px);
+    line-height: 3px;
     color: red;
 }
