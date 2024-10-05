@@ -1,6 +1,6 @@
 .Box{
   margin: 10px 10px 10px 10px;
-  padding: 250px 500px 25px 500px;
+  padding: 250px 500px 15px 500px;
   border: Purple 3px dashed;
 }
 .BlackText{
@@ -16,7 +16,7 @@
 }
 .TinyTextPurple{
   color: Purple;
-  font-size: 8px;
+  font-size: 4px;
   text-align: right;
 }
 .YELLOW{
