@@ -1,15 +1,21 @@
 header{
   background-color: red;
+  height: 300px;
+  width: 100%;
 }
 
-h1{
+h2{
   text-align: center;
 }
 
-body{
+p{
   background-color: green;
+  Height: 80%;
+  width: 100%;
 }
 
 footer{
   background-color: blue;
+  height: 300px;
+  width: 100%
 }
