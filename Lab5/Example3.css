@@ -12,26 +12,30 @@ body{
 }
 
 #Content1{
+  float: left;
+  clear: both;
 	width:200px;
 	height: 200px;
 	background-color:#Blue;
 	padding:5px;
   margin-top: 5px;
-  margin-left: 150px;
   font-size: 11px;
 }
 #Content2{
+  clear: both;
+  float: right;
 	width:200px;
 	height:200px;
 	background:red;
 	padding:5px;
   margin-top: 5px;
-  margin-right: 150px;
     font-size: 11px;
 }
 
 #Content3{
+  float: inherit;
   width:200px;
+  clear: both;
   height:200px;
   margin-top: 200px;
   background-color: yellow;
