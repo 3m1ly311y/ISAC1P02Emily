@@ -1,0 +1,39 @@
+body{
+	color:black;
+	background-color:green;
+  margin: 5px 5px 5px 5px;
+}
+
+
+#wrapper{
+	width:5px;
+	margin:0 auto;
+	background-color:green;
+}
+
+#Content1{
+	float:left;
+	width:200px;
+	height: 200px;
+	background-color:#Blue;
+	padding:5px;
+  margin-top: 5px;
+  margin-left: 150px;
+}
+#Content2{
+	float:right;
+	width:200px;
+	height:200px;
+	background:red;
+	padding:5px;
+  margin-top: 5px;
+  margin-right: 150px;
+}
+
+#Content3{
+  width:200px;
+  height:200px;
+  margin-top: 200px;
+  background-color: yellow;
+  margin-right: 275px;
+}
