@@ -12,22 +12,22 @@ body{
 }
 
 #Content1{
-	float:left;
 	width:200px;
 	height: 200px;
 	background-color:#Blue;
 	padding:5px;
   margin-top: 5px;
   margin-left: 150px;
+  font-size: 11px;
 }
 #Content2{
-	float:right;
 	width:200px;
 	height:200px;
 	background:red;
 	padding:5px;
   margin-top: 5px;
   margin-right: 150px;
+    font-size: 11px;
 }
 
 #Content3{
@@ -36,4 +36,5 @@ body{
   margin-top: 200px;
   background-color: yellow;
   margin-right: 275px;
+    font-size: 11px;
 }
