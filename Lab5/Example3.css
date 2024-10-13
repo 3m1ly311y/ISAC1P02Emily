@@ -12,16 +12,14 @@ body{
 
 #Content1{
   float: left;
-  clear: both;
 	width:200px;
 	height: 200px;
-	background-color:#Blue;
+	background-color: Blue;
 	padding:5px;
   margin-top: 5px;
   font-size: 11px;
 }
 #Content2{
-  clear: both;
   float: right;
 	width:200px;
 	height:200px;
