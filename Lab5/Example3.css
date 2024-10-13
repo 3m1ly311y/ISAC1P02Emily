@@ -12,10 +12,10 @@ body{
 
 #Content1{
   float: left;
-  clear: right;
+  clear: left;
   position: relative;
   top: 5px;
-  left: 150px;
+  right: 150px;
 	width:200px;
 	height: 200px;
 	background-color: Blue;
@@ -24,10 +24,10 @@ body{
 }
 #Content2{
   float: right;
-  clear: left;
+  clear: right;
   position: relative;
   top: 5px;
-  right: 150px;
+  left: 150px;
 	width:200px;
 	height:200px;
 	background:red;
