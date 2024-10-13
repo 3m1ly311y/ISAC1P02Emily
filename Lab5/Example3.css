@@ -13,21 +13,25 @@ body{
 #Content1{
   float: left;
   clear: right;
+  position: relative;
+  top: 5px;
+  left: 150px;
 	width:200px;
 	height: 200px;
 	background-color: Blue;
 	padding:5px;
   font-size: 11px;
-  margin-top: 5px;
 }
 #Content2{
   float: right;
   clear: left;
+  position: relative;
+  top: 5px;
+  right: 150px;
 	width:200px;
 	height:200px;
 	background:red;
 	padding:5px;
-  margin-top: 5px;
   font-size: 11px;
 }
 
