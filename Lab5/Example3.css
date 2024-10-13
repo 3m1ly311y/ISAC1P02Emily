@@ -12,21 +12,23 @@ body{
 
 #Content1{
   float: left;
+  clear: right;
 	width:200px;
 	height: 200px;
 	background-color: Blue;
 	padding:5px;
-  margin-top: 5px;
   font-size: 11px;
+  margin-top: 5px;
 }
 #Content2{
   float: right;
+  clear: left;
 	width:200px;
 	height:200px;
 	background:red;
 	padding:5px;
   margin-top: 5px;
-    font-size: 11px;
+  font-size: 11px;
 }
 
 #Content3{
@@ -34,8 +36,7 @@ body{
   width:200px;
   clear: both;
   height:200px;
-  margin-top: 200px;
   background-color: yellow;
   margin-right: 275px;
-    font-size: 11px;
+  font-size: 11px;
 }
