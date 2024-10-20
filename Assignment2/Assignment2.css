@@ -54,3 +54,8 @@ h1{
   position: fixed;
   bottom: 10px;
 }
+
+#Cat{
+  width: 40px;
+  height: auto;
+}
