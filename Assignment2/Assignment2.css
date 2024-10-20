@@ -35,12 +35,6 @@ h1{
   padding: 5px;
 }
 
-.WillowPhoto2{
-	width:200px;
-	height:auto;
-  padding: 5px;
-}
-
 .WillowPhoto3{
 	width:200px;
 	height:auto;
@@ -48,8 +42,6 @@ h1{
 }
 
 .WillowPhoto4{
-  position: absolute;
-    right: 200px;
 	width:200px;
 	height:auto;
   padding: 5px;
