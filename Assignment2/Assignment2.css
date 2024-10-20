@@ -24,33 +24,24 @@ h1{
 }
 
 .WillowPhoto1{
-    clear: both;
-  position: absolute;
-    left: 200px;
   width:200px;
   height: auto;
   padding:5px;
 }
 
 .WillowPhoto2{
-  position: absolute;
-    right: 200px;
 	width:200px;
 	height:auto;
   padding: 5px;
 }
 
 .WillowPhoto2{
-  position: absolute;
-    right: 200px;
 	width:200px;
 	height:auto;
   padding: 5px;
 }
 
 .WillowPhoto3{
-  position: absolute;
-    right: 200px;
 	width:200px;
 	height:auto;
   padding: 5px;
