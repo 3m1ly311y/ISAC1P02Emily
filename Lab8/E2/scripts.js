@@ -11,7 +11,7 @@ document.getElementById("red").style.color="red";
 
 function mix(){
 	document.getElementById("blue").style.color=first;
-	document.getElementById("green").style.colour=second;
+	document.getElementById("green").style.color=second;
 	document.getElementById("red").style.color=third;
 
 }
