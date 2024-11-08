@@ -3,5 +3,5 @@ document.write("<p>Output Zero Here</p>");
 
 //This will output when a button is pressed
 function therest(){
-	document.getElementbyId("output3").innerHTML="Output Three Here";
+	document.getElementById("output3").innerHTML="Output Three Here";
 }
