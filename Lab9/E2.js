@@ -1,5 +1,4 @@
-var prompt = prompt("What is your age?");
+var prompt = Number(prompt()) ("What is your age?");
 console.log(prompt);
-var todayYear = getFullDate.getFullYear();
-var birthYear = getFullDate - prompt;
+var birthYear = getFullDate.getFullYear() - Number(prompt());
 var outPut = document.getElementsById("yearHere").innerHTML = birthYear;
