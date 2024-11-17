@@ -13,3 +13,4 @@ function stopTime(){
 
   console.log(stop);
   var popUP = alert("this page has fucked for" + elapsed + "seconds");
+}
