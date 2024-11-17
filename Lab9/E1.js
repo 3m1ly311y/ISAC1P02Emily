@@ -12,4 +12,4 @@ function stopTime(){
   var elapsed = stop.getTime() - start.getTime();
 
   console.log(stop);
-  var popUP = alert("this page has fucked for" + stopTime + "seconds");
+  var popUP = alert("this page has fucked for" + elapsed + "seconds");
