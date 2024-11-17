@@ -1,8 +1,8 @@
 
-var start = start.getMilliseconds();
+var start = start.getTime();
 
 function stopTime(){
-  var stop = stop.getMilliseconds();
+  var stop = stop.getTime();
 
   var elapsed = stop.getMilliseconds()/600 - start.getMilliseconds()/600;
 
