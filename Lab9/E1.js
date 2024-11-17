@@ -5,7 +5,7 @@ function stopTime(){
     var stop = new Date()
   var stop = stop.getTime();
 
-  var elapsed = stop.getTime()/600 - start.getTime()/600;
+  var elapsed = stop.getTime() - start.getTime();
 
   var popUP = alert("You have been on this page for: " + elapsed + " seconds");
 }
