@@ -1,16 +1,10 @@
 
-var  start = new Date()
-
-var startTime = start.getMilliseconds();
-
-
-
+var start = start.getMilliseconds();
 
 function stopTime(){
-  var stop = new Date()
-  var stopTime = stop.getMilliseconds();
-  var elapsed = stop.getMilliseconds() - start.getMilliseconds();
+  var stop = stop.getMilliseconds();
+  var start = start.getTime();
+  var elapsed = stop.getMilliseconds()/600 - start.getMilliseconds()/600;
 
-  console.log(stop);
   var popUP = alert("You have been on this page for: " + elapsed + " seconds");
 }
