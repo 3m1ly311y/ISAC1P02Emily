@@ -1,6 +1,6 @@
 body{
 	color:black;
-	background-color: #FCDAE1;
+	background-color: white;
 }
 
 
@@ -19,7 +19,7 @@ body{
 #Content1{
 	float:left;
 	width:100%;
-	background-color: #E4E0F5;
+	background-color: #F3FFD6;
   font-size: 11px;
 }
 
@@ -30,19 +30,6 @@ body{
   font-size: 11px;
 }
 
-#Content3{
-	float:left;
-	width:100%;
-	background-color: #F3FFD6;
-  font-size: 11px;
-}
-
-#Content4{
-	float:left;
-	width:100%;
-	background-color: #F3FFD6;
-  font-size: 11px;
-}
 
 ul {
   list-style-type: none;
