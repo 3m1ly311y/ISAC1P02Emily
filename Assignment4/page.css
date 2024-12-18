@@ -19,7 +19,6 @@ body{
 #Content1{
 	float:left;
 	width:100%;
-	height: 500px;
 	background-color: #E4E0F5;
   font-size: 11px;
 }
@@ -27,7 +26,6 @@ body{
 #Content2{
 	float:left;
 	width:100%;
-	height: 500px;
 	background-color: #D1F0ED;
   font-size: 11px;
 }
@@ -35,7 +33,6 @@ body{
 #Content3{
 	float:left;
 	width:100%;
-	height: 500px;
 	background-color: #F3FFD6;
   font-size: 11px;
 }
@@ -43,7 +40,6 @@ body{
 #Content4{
 	float:left;
 	width:100%;
-	height: 500px;
 	background-color: #F3FFD6;
   font-size: 11px;
 }
