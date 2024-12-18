@@ -1,5 +1,5 @@
 var popUP = alert("Warning cute images of dogs on web page");
-}
+
 
 var countDownDate = new Date("Jan 2, 2025 0:00:00").getTime();
 
